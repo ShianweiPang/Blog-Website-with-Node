@@ -1,0 +1,15 @@
+# git wildcard info 
+# "#" mark line as comment
+# "*" matches 0 or more characters
+# "?" matches 1 character
+# [abc] matches a, b, or c
+# ** matches nested directories 
+
+
+
+
+# node_modules folder
+node_modules
+
+NodeJS.docx
+
